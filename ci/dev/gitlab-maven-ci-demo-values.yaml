@@ -135,7 +135,7 @@ ingress:  # 是否使用nginx暴露域名或端口
     # kubernetes.io/tls-acme: "true"
   path: /
   hosts:
-    - gitlb-maven-ci-demo-dev.datcn.com
+    - gitlab-maven-ci-demo-dev.datcn.com
   tls: []
   #  - secretName: chart-example-tls
   #    hosts:
