@@ -17,8 +17,8 @@ variables:
 
   CHART_NAME: "utcook"  # chart模板名
   CHART_VERSION: "1.1.0"  # chart模板版本
-  CONTAINER_REPO: "docker.io/ygqygq2"  # 上传docker仓库
-  CONTAINER_PROJECT: "pub"  # docker仓库项目
+  CONTAINER_REPO: "docker.io"  # 上传docker仓库
+  CONTAINER_PROJECT: "ygqygq2"  # docker仓库项目
   DOCKER_HOST: "http://192.168.105.71:2375"
   DOCKER_USER: "docker"
   DOCKER_PASSWD: "Dev12345"
