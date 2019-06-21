@@ -16,7 +16,7 @@ variables:
   HELM_HOST: "tiller-deploy.kube-system:44134"
 
   CHART_NAME: "utcook"  # chart模板名
-  CHART_VERSION: "1.1.0"  # chart模板版本
+  CHART_VERSION: "2.0.0"  # chart模板版本
   CONTAINER_REPO: "docker.io"  # 上传docker仓库
   CONTAINER_PROJECT: "ygqygq2"  # docker仓库项目
   DOCKER_HOST: "http://192.168.105.71:2375"
